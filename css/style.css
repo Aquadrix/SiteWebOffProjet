@@ -160,7 +160,7 @@ ul {
 
 .card{
     margin:50px 15% 50px 15%;
-    padding-bottom: 10px;
+    padding-bottom: 20%;
 }
 .card-img-top{
     float:none;
@@ -252,4 +252,3 @@ ul {
     font-weight: 200;
 
 }
-
