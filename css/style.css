@@ -56,7 +56,7 @@ ul {
         list-style: none;
 }
 
-/* --- TITLE --- */
+/* --- TITLEE --- */
 
 .title {
     position: relative;
@@ -79,6 +79,9 @@ ul {
        border:20px solid #ffffff;
     border-radius:15px 15px 15px 15px;
 }
+
+
+
 /* --- SIDE BAR --- */
 
 .side-bar{
