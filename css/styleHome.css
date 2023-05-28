@@ -33,6 +33,23 @@ body {
     background: white;
     color: black;
 }
+.button2 {
+    font-weight: bold;
+    color: white;
+    background: black;
+    text-transform: uppercase;
+    border: 1px solid white;
+    padding: 18px 50px;
+    display: inline-block;
+    border-radius: 3px;
+    text-decoration: none;
+    margin-top: 20px;
+    transition: all 0.3s ease-in 0s;
+}
+.button2:hover {
+    background: green;
+    color: black;
+}
 
 
 /* --- LOGO ---- */
